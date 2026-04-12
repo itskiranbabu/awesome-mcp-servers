@@ -187,6 +187,8 @@ await server.connect(transport);
 | [**@modelcontextprotocol/server-github**](https://github.com/modelcontextprotocol/servers/tree/main/src/github) | GitHub repository operations | TypeScript | ⭐⭐⭐⭐⭐ |
 | [**@modelcontextprotocol/server-git**](https://github.com/modelcontextprotocol/servers/tree/main/src/git) | Git operations and history | TypeScript | ⭐⭐⭐⭐ |
 | [**@modelcontextprotocol/server-gitlab**](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) | GitLab integration | TypeScript | ⭐⭐⭐⭐ |
+| [toprank](https://github.com/nowork-studio/toprank) | Open-source Claude Code plugin for SEO & Google Ads — meta tags, schema markup, keyword bids, CMS pushes | TypeScript |
+
 
 ### Data & Databases
 
