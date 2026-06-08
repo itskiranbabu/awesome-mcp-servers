@@ -265,6 +265,7 @@ await server.connect(transport);
 - [**mcp-server-quickbooks**](https://github.com/intuit/mcp-server-quickbooks) - Accounting
 - [**mcp-server-salesforce**](https://github.com/salesforce/mcp-server) - CRM integration
 - [**mcp-server-hubspot**](https://github.com/hubspot/mcp-server) - Marketing automation
+- [**TWZRD Agent Intel**](https://intel.twzrd.xyz) - Trust scoring for Solana AI agent wallets with x402 micropayment verification. Zero-install MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ---
 
