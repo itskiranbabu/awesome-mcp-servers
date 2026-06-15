@@ -246,6 +246,7 @@ await server.connect(transport);
 
 - [**mcp-server-discord**](https://github.com/discord/mcp-server) - Discord bot integration
 - [**mcp-server-telegram**](https://github.com/telegram/mcp-server) - Telegram bots
+- [**TweetClaw**](https://github.com/Xquik-dev/tweetclaw) - MCP-ready OpenClaw plugin for X/Twitter search, approval-gated posting, follower export, media, direct messages, monitors, webhooks, and giveaway draws through Xquik
 - [**mcp-server-notion**](https://github.com/makenotion/mcp-server) - Notion workspace
 - [**mcp-server-linear**](https://github.com/linear/mcp-server) - Linear issue tracking
 - [**mcp-server-jira**](https://github.com/atlassian/mcp-server-jira) - Jira project management
