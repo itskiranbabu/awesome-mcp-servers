@@ -265,6 +265,7 @@ await server.connect(transport);
 - [**mcp-server-quickbooks**](https://github.com/intuit/mcp-server-quickbooks) - Accounting
 - [**mcp-server-salesforce**](https://github.com/salesforce/mcp-server) - CRM integration
 - [**mcp-server-hubspot**](https://github.com/hubspot/mcp-server) - Marketing automation
+- [**NotFair**](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, Google Ads, and Meta Ads; connects to Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
 
 ---
 
