@@ -232,6 +232,7 @@ await server.connect(transport);
 - [**mcp-server-anthropic**](https://github.com/anthropics/mcp-server-anthropic) - Claude API
 - [**mcp-server-huggingface**](https://github.com/huggingface/mcp-server) - HuggingFace models
 - [**mcp-server-replicate**](https://github.com/replicate/mcp-server) - Replicate AI models
+- [**runapi-mcp**](https://github.com/runapi-ai/mcp) - Run AI image, video, music, speech, and LLM jobs through RunAPI
 - [**mcp-server-langchain**](https://github.com/langchain-ai/mcp-server) - LangChain integration
 
 #### Databases & Storage
