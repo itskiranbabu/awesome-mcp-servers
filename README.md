@@ -265,6 +265,7 @@ await server.connect(transport);
 - [**mcp-server-quickbooks**](https://github.com/intuit/mcp-server-quickbooks) - Accounting
 - [**mcp-server-salesforce**](https://github.com/salesforce/mcp-server) - CRM integration
 - [**mcp-server-hubspot**](https://github.com/hubspot/mcp-server) - Marketing automation
+- [**FilingFirehose**](https://filingfirehose.com/mcp) - Hosted SEC EDGAR MCP: 8-K / 10-K / 10-Q / S-3 / 13D filings, forensic risk scores, and cyber-incident tracking on any US stock ticker
 
 ---
 
