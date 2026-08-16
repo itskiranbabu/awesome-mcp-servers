@@ -252,6 +252,7 @@ await server.connect(transport);
 
 #### Web Scraping & Data
 
+- [**agent-qa**](https://github.com/vostride/agent-qa) - Natural-language web and mobile application test execution and triage
 - [**mcp-server-firecrawl**](https://github.com/firecrawl/mcp-server) - Web scraping
 - [**mcp-server-browserbase**](https://github.com/browserbase/mcp-server) - Browser automation
 - [**mcp-server-playwright**](https://github.com/microsoft/mcp-server-playwright) - E2E testing
