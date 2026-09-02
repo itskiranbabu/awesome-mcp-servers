@@ -244,6 +244,7 @@ await server.connect(transport);
 
 #### Communication & Collaboration
 
+- [**mcp-server-bulkpublish**](https://github.com/azeemkafridi/bulkpublish-api) - AI-agent social media planning, review, scheduling, publishing, and analytics through BulkPublish
 - [**mcp-server-discord**](https://github.com/discord/mcp-server) - Discord bot integration
 - [**mcp-server-telegram**](https://github.com/telegram/mcp-server) - Telegram bots
 - [**mcp-server-notion**](https://github.com/makenotion/mcp-server) - Notion workspace
