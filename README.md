@@ -234,6 +234,8 @@ await server.connect(transport);
 - [**mcp-server-replicate**](https://github.com/replicate/mcp-server) - Replicate AI models
 - [**mcp-server-langchain**](https://github.com/langchain-ai/mcp-server) - LangChain integration
 
+- [**OrkasVideoStudio**](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first TypeScript CLI and MCP toolkit for composing, editing, generating, and assembling videos from editable plan.json timelines.
+
 #### Databases & Storage
 
 - [**mcp-server-mongodb**](https://github.com/mongodb/mcp-server) - MongoDB operations
