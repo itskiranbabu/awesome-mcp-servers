@@ -260,6 +260,7 @@ await server.connect(transport);
 
 #### Finance & Business
 
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 - [**mcp-server-stripe**](https://github.com/stripe/mcp-server) - Payment processing
 - [**mcp-server-plaid**](https://github.com/plaid/mcp-server) - Banking data
 - [**mcp-server-quickbooks**](https://github.com/intuit/mcp-server-quickbooks) - Accounting
