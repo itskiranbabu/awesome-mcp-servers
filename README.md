@@ -260,6 +260,7 @@ await server.connect(transport);
 
 #### Finance & Business
 
+- [**API.market MCP Gateway**](https://github.com/Noveum/api-market-agent-integrations) - Public client metadata and setup docs for a proprietary hosted API marketplace gateway at https://api.market/api/mcp/gateway, with five tools for discovery, execution, usage and subscriptions. Uses Streamable HTTP with OAuth or API keys; free tiers and paid plans vary by API.
 - [**mcp-server-stripe**](https://github.com/stripe/mcp-server) - Payment processing
 - [**mcp-server-plaid**](https://github.com/plaid/mcp-server) - Banking data
 - [**mcp-server-quickbooks**](https://github.com/intuit/mcp-server-quickbooks) - Accounting
