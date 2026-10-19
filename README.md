@@ -260,6 +260,7 @@ await server.connect(transport);
 
 #### Finance & Business
 
+- [**Agent Payment Node**](https://github.com/nuanu-ai/agent-payment-node) - Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
 - [**mcp-server-stripe**](https://github.com/stripe/mcp-server) - Payment processing
 - [**mcp-server-plaid**](https://github.com/plaid/mcp-server) - Banking data
 - [**mcp-server-quickbooks**](https://github.com/intuit/mcp-server-quickbooks) - Accounting
