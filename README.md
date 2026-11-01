@@ -225,6 +225,7 @@ await server.connect(transport);
 - [**mcp-server-terraform**](https://github.com/terraform-mcp/server) - Infrastructure as code
 - [**mcp-server-aws**](https://github.com/aws/mcp-server-aws) - AWS services integration
 - [**mcp-server-vercel**](https://github.com/vercel/mcp-server) - Vercel deployment
+- [**kilobat-cli**](https://github.com/seifip/kilobat-cli) - macOS network diagnostics over local stdio: DNS, latency and proxy-routing checks. Swift; GPL-3.0-only.
 
 #### AI & Machine Learning
 
